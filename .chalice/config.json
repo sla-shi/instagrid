@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "app_name": "instagrid",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
