@@ -1,2 +1,4 @@
 .chalice/deployments/
 .chalice/venv/
+.venv
+.DS_Store
